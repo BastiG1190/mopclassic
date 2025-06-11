@@ -46,7 +46,7 @@ nav a:hover {
     max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
-    background: rgba(17, 17, 17, 0.85); /* fast schwarz, 85 % Deckkraft */
+    background: rgba(17, 17, 17, 0.85);
     border: 2px solid #f1c40f;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(241, 196, 15, 0.5);
