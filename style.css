@@ -9,18 +9,10 @@ body {
 }
 
 header {
-    background-color: #000000;
-    color: #f1c40f;
-    text-align: center;
-    position: relative;
-    padding: 0;
-}
-
-header {
     background-image: url("images/banner.jpg");
     background-size: cover;
     background-position: center;
-    height: 250px; /* du kannst 250px, 300px oder was dir gefällt nehmen */
+    height: 250px;
     position: relative;
 }
 
@@ -37,6 +29,7 @@ header h1 {
     text-shadow: 2px 2px 6px #000000, 0 0 10px #f1c40f;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 nav {
     background-color: #000000;
     overflow: hidden;
