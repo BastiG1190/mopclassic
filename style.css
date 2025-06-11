@@ -10,9 +10,10 @@ body {
 
 header {
     background-image: url("images/banner.jpg");
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
-    height: 250px;
+    height: 400px;
     position: relative;
 }
 
